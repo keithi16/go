@@ -1,0 +1,31 @@
+# Binários e build
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+build/
+dist/
+tmp/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+
+# Test coverage
+*.coverprofile
+coverage.out
+
+# Env files
+.env
+.env.*
+
+# Go cache/vendor
+vendor/
