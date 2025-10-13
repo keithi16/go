@@ -19,6 +19,8 @@ tmp/
 *.tmp
 .DS_Store
 
+pkg/
+
 # Test coverage
 *.coverprofile
 coverage.out
